@@ -22,7 +22,7 @@ python main.py
 
 The main interface is displayed with the different cards of the game.
 
-<img src="documentation/main-interface.png" alt="drawing" width="400"/>
+<img src="documentation/main-interface.png" alt="drawing" width="350"/>
 
 <br />
 
@@ -43,7 +43,7 @@ Clicking on a card face down (on the card selector) resets the value of the card
 The winning probabilities can be computed by clicking on the right button of the main interface.
 
 <p float="left">
-  <img src="documentation/computation-2.png" width="500" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="documentation/computation-1.png" width="500" /> 
+  <img src="documentation/computation-2.png" width="350" /> &nbsp; <img src="documentation/computation-1.png" width="350" /> 
   </pre>
 </p>
 
@@ -52,4 +52,4 @@ The winning probabilities can be computed by clicking on the right button of the
 
 The probabilities can be computed in different scenarios but require to select at least the main player cards and either the flop or the opponent cards.
 
-<img src="documentation/impossible-computation.png" alt="drawing" width="500"/>
+<img src="documentation/impossible-computation.png" alt="drawing" width="350"/>
