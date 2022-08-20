@@ -1,0 +1,15 @@
+# cache
+__pycache__/
+
+# linter
+.flake8
+.isort.cfg
+.markdownlint.yaml
+.trunk/
+
+# .egg-info
+poker_probability_calculator.egg-info/
+
+# requirements
+requirements.txt
+setup.py
